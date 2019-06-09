@@ -1,0 +1,14 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(221, 221, 221);
+}
+
+.container h2 {
+  margin-bottom: 50px;
+  font-size: 2em;
+  font-style: italic;
+  font-weight: bold;
+}

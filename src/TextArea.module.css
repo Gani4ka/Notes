@@ -1,0 +1,36 @@
+.textArea {
+  position: relative;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.textArea textarea {
+  width: 100%;
+}
+
+.btns {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  height: 30px;
+}
+
+.btns button {
+  width: 30px;
+  height: 30px;
+  border: 2px solid grey;
+  border-radius: 50%;
+}
+
+.btnAdd {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  border: 2px solid grey;
+  border-radius: 5px;
+  padding: 10px 30px;
+  background-color: rgb(23, 228, 40);
+}
